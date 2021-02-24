@@ -1,8 +1,7 @@
-# Classification of Image Data
+# Image Classifier with PyTorch
+Built a convolutional neural network using PyTorch to compare with a multi-layer perceptron for image classification on CIFAR-10. Using the CIFAR-10 dataset with the default test and train partitions
 
 writeup.pdf: The main report of the project
-
-Using the CIFAR-10 dataset with the default test and train partitions
 
 ## Multilayer Perceptron
 Implement the model from scratch including backpropogation and the gradient descent algorithm (SGD)
