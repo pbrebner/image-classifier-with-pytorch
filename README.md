@@ -16,4 +16,8 @@ Run Convolutional_Neural_Network.ipynb to load the data and run the model
 ## Results
 Compared the test and train performance of the above two models as a function of training epochs. Hyper-parameters such as the number of layersm number of units, and acivation functions were adjusted to test performance
 
-Read writeup.pdf for full results and discussion
+<object data="writeup.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="writeup.pdf">
+        <p>Please read writeup.pdf for full results and discussion. You can download the PDF to view it: <a href="writeup.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
